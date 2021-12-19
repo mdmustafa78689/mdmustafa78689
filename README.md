@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mdmustafa78689
-- 👀 I’m interested in ...develop the new software to solve the lot of problem.
+- 👀 I’m interested in ...developing the new software to solve the various types of problems.
 - 🌱 I’m currently learning ...in c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
